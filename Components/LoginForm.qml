@@ -41,5 +41,4 @@ ColumnLayout {
         Layout.leftMargin: p != "0" ? a == "left" ? -p : a == "right" ? p : 0 : 0
         exposedSession: input.exposeSession
     }
-
 }
